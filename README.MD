@@ -7,7 +7,7 @@
 
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Ebook Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Fork de repositório desenvolvido durante curso da [DIO](https://dio.me), instruído pelo Professor [Felipe Aguiar](https://github.com/felipeAguiarCode). Projeto desenvolvido para a trilha de Fundamentos de IA para Devs do Santander Bootcamp 2024. 
@@ -15,7 +15,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 Todos os prompts utilizados são apresentados abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook.</a>
+<a href="https://github.com/karina-barros/prompts-AI-ebook/blob/main/output/Ebook-AI-SOA.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook.</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
